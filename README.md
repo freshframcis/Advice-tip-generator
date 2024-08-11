@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Advice tip generator solution URL here](https://github.com/freshframcis/Advice-tip-generator)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -46,7 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-During the HTML portion of the project, I learned the importance of using semantic tags to enhance accessibility for screen readers. In CSS, I gained a deeper understanding of Flexbox and built the entire project using it, which significantly enhanced my experience and confidence in working with Flexbox. I also learned how to make API calls. 
+During the HTML portion of the project, I learned the importance of using semantic tags to enhance accessibility for screen readers. In CSS, I gained a deeper understanding of Flexbox and built the entire project using it, which significantly enhanced my experience and confidence in working with Flexbox. I also learned how to make API calls.
 
 ### Continued development
 
@@ -66,6 +66,3 @@ I would love to make more use of APIs and json, as it would be necessary in buil
 ## Acknowledgments
 
 I want to acknowledge Master Paul for his continuous encouragement throughout this project. I am also grateful for the resources from YouTube and other platforms that I used. Thanks to those who upload articles and tutorials, significantly helping beginners like me improve. Lastly, I commend the Frontend Mentor team for giving us the opportunity to practice and enhance our programming skills.
-
-
-
